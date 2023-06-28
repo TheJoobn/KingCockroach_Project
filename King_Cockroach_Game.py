@@ -1,4 +1,3 @@
-# Code by: Jaden Bryon Knutson
 
 # GAMEPLAY MAIN FUNCTION:
 def main():
